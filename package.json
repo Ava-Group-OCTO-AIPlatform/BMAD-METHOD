@@ -1,0 +1,17 @@
+{
+  "name": "bmad-aap-telemetry-hooks",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Intelligence Hub telemetry hooks for the BMAD Method (Avanade fork); npx installer.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "aap-bmad-hooks": "hooks/aap-telemetry/install.mjs"
+  },
+  "files": [
+    "hooks/aap-telemetry/"
+  ]
+}

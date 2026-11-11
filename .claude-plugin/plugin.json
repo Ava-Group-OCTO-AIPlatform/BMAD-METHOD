@@ -1,0 +1,17 @@
+{
+  "name": "bmad-method",
+  "displayName": "BMAD Method (Avanade)",
+  "version": "6.13.0-next",
+  "description": "Agile AI-driven development: BMAD Method skills with Intelligence Hub telemetry hooks.",
+  "author": {
+    "name": "Brian (BMad) Madison"
+  },
+  "homepage": "https://docs.bmad-method.org",
+  "repository": "https://github.com/Ava-Group-OCTO-AIPlatform/BMAD-METHOD",
+  "license": "MIT",
+  "keywords": [
+    "bmad",
+    "agile",
+    "spec-driven-development"
+  ]
+}
